@@ -2,7 +2,7 @@
   "api": {
     "appVersion": "25.6.1",
     "credentials": {
-      "email": "Email of your TooGoodToGo account."
+      "email": "bbybokchoy@gmail.com"
     },
     "session": {},
     "headers": {},
@@ -11,16 +11,16 @@
   },
   "notifications": {
     "console": {
-      "enabled": false,
+      "enabled": true,
       "clear": true
     },
     "desktop": {
       "enabled": false
     },
     "telegram": {
-      "enabled": false,
+      "enabled": true,
       "disableJoin": false,
-      "botToken": "See README",
+      "botToken": "6534063150:AAFpy79nLcSmrOL-1jDjv0xl8Pbrd2IQlLw",
       "chats": []
     },
     "mqtt": {
@@ -44,7 +44,7 @@
     "showUnchanged": false,
     "showDecrease": false,
     "showDecreaseToZero": false,
-    "showIncrease": false,
+    "showIncrease": true,
     "showIncreaseFromZero": true
   }
 }

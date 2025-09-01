@@ -1,0 +1,256 @@
+{
+    "items": [
+      {
+        "item": {
+          "item_id": "647230",
+          "item_price": {
+            "code": "CAD",
+            "minor_units": 799,
+            "decimals": 2
+          },
+          "item_value": {
+            "code": "CAD",
+            "minor_units": 2400,
+            "decimals": 2
+          },
+          "cover_picture": {
+            "picture_id": "730053",
+            "current_url": "https://images.tgtg.ninja/item/cover/dcf42205-b908-4d91-adb9-ffa4fb347377.jpg",
+            "is_automatically_created": false
+          },
+          "logo_picture": {
+            "picture_id": "724215",
+            "current_url": "https://images.tgtg.ninja/store/d4c3b8e4-3e43-4168-8d1f-f1d7c1ef9e5b_thumb.png",
+            "is_automatically_created": false
+          },
+          "name": "Sushi",
+          "description": "Save a bag containing delicious sushi items and sometimes fried items! It may contain non-menu items or items not sold that day, but still great to enjoy.",
+          "subtitle": "",
+          "food_handling_instructions": "If you have any allergens,please let the servers know.",
+          "can_user_supply_packaging": false,
+          "packaging_option": "MUST_BRING_BAG",
+          "collection_info": "",
+          "diet_categories": [],
+          "item_category": "MEAL",
+          "buffet": false,
+          "positive_rating_reasons": [
+            "POSITIVE_FEEDBACK_GREAT_QUANTITY",
+            "POSITIVE_FEEDBACK_GREAT_VALUE",
+            "POSITIVE_FEEDBACK_QUICK_COLLECTION",
+            "POSITIVE_FEEDBACK_DELICIOUS_FOOD",
+            "POSITIVE_FEEDBACK_FRIENDLY_STAFF",
+            "POSITIVE_FEEDBACK_GREAT_VARIETY"
+          ],
+          "average_overall_rating": {
+            "average_overall_rating": 4.497267759562842,
+            "rating_count": 183,
+            "month_count": 6,
+            "average_collection_experience_rating": 4.548611111111111,
+            "average_food_quality_rating": 4.563380281690141,
+            "average_contents_variety_rating": 4.517985611510792,
+            "average_food_quantity_rating": 4.549295774647887
+          },
+          "favorite_count": 0
+        },
+        "store": {
+          "store_id": "685673",
+          "store_name": "Shabusen Yakiniku House",
+          "branch": "",
+          "description": "",
+          "tax_identifier": "",
+          "website": "https://www.shabusen-yakiniku.com/",
+          "store_location": {
+            "address": {
+              "country": {
+                "iso_code": "CA",
+                "name": "Canada"
+              },
+              "address_line": "755 Burrard St #202, Vancouver, BC V6Z 1X6, Canada",
+              "city": "",
+              "postal_code": ""
+            },
+            "location": {
+              "longitude": -123.1222158,
+              "latitude": 49.2839741
+            }
+          },
+          "logo_picture": {
+            "picture_id": "724215",
+            "current_url": "https://images.tgtg.ninja/store/d4c3b8e4-3e43-4168-8d1f-f1d7c1ef9e5b_thumb.png",
+            "is_automatically_created": false
+          },
+          "store_time_zone": "America/Vancouver",
+          "hidden": false,
+          "favorite_count": 0,
+          "distance": 7976.176208819391,
+          "cover_picture": {
+            "picture_id": "730053",
+            "current_url": "https://images.tgtg.ninja/item/cover/dcf42205-b908-4d91-adb9-ffa4fb347377.jpg",
+            "is_automatically_created": false
+          },
+          "is_manufacturer": false
+        },
+        "display_name": "Shabusen Yakiniku House (Sushi)",
+        "pickup_interval": {
+          "start": "2025-08-29T04:45:00Z",
+          "end": "2025-08-29T05:15:00Z"
+        },
+        "pickup_location": {
+          "address": {
+            "country": {
+              "iso_code": "CA",
+              "name": "Canada"
+            },
+            "address_line": "755 Burrard St #202, Vancouver, BC V6Z 1X6, Canada",
+            "city": "",
+            "postal_code": ""
+          },
+          "location": {
+            "longitude": -123.1222158,
+            "latitude": 49.2839741
+          }
+        },
+        "purchase_end": "2025-08-29T05:15:00Z",
+        "items_available": 0,
+        "sold_out_at": "2025-08-28T07:06:44Z",
+        "distance": 7976.176208819391,
+        "favorite": true,
+        "subscribed_to_notification": false,
+        "in_sales_window": true,
+        "new_item": false,
+        "item_type": "MAGIC_BAG",
+        "matches_filters": true,
+        "item_tags": [
+          {
+            "id": "SOLD_OUT",
+            "short_text": "Sold out",
+            "variant": "SOLD_OUT"
+          }
+        ]
+      },
+      {
+        "item": {
+          "item_id": "942972",
+          "item_price": {
+            "code": "CAD",
+            "minor_units": 599,
+            "decimals": 2
+          },
+          "item_value": {
+            "code": "CAD",
+            "minor_units": 1800,
+            "decimals": 2
+          },
+          "cover_picture": {
+            "picture_id": "964434",
+            "current_url": "https://images.tgtg.ninja/item/cover/dc5fd075-3980-4ab6-b60d-d98876079ebe.jpg",
+            "is_automatically_created": false
+          },
+          "logo_picture": {
+            "picture_id": "964429",
+            "current_url": "https://images.tgtg.ninja/store/ca04689d-5d90-4344-8e7e-fbe8205ab9e7.png",
+            "is_automatically_created": false
+          },
+          "name": "Assorted products",
+          "description": "Save a surprise bag filled with baked goods.Your surprise bag may contain baked goods like pastries, bread, sandwich or beverages that the store has left at the end of their day. May be frozen. Some items maybe close to or past 'best before' date however still good to enjoy! ",
+          "subtitle": "",
+          "food_handling_instructions": "",
+          "can_user_supply_packaging": false,
+          "packaging_option": "BAG_ALLOWED",
+          "collection_info": "",
+          "diet_categories": [],
+          "item_category": "BAKED_GOODS",
+          "buffet": false,
+          "positive_rating_reasons": [
+            "POSITIVE_FEEDBACK_QUICK_COLLECTION",
+            "POSITIVE_FEEDBACK_GREAT_VALUE",
+            "POSITIVE_FEEDBACK_DELICIOUS_FOOD",
+            "POSITIVE_FEEDBACK_GREAT_QUANTITY",
+            "POSITIVE_FEEDBACK_FRIENDLY_STAFF",
+            "POSITIVE_FEEDBACK_GREAT_VARIETY"
+          ],
+          "average_overall_rating": {
+            "average_overall_rating": 4.378947368421053,
+            "rating_count": 760,
+            "month_count": 6,
+            "average_collection_experience_rating": 4.593059936908517,
+            "average_food_quality_rating": 4.374800637958533,
+            "average_contents_variety_rating": 4.2025931928687195,
+            "average_food_quantity_rating": 4.331707317073171
+          },
+          "favorite_count": 0
+        },
+        "store": {
+          "store_id": "952606",
+          "store_name": "Saint Germain Bakery - 1395 E33rd Ave. ",
+          "branch": "",
+          "description": "",
+          "tax_identifier": "",
+          "website": "https://www.saintgermainbakery.com/",
+          "store_location": {
+            "address": {
+              "country": {
+                "iso_code": "CA",
+                "name": "Canada"
+              },
+              "address_line": "1395 E 33rd Ave, Vancouver, BC V5V 3B9, Canada",
+              "city": "",
+              "postal_code": ""
+            },
+            "location": {
+              "longitude": -123.0765115,
+              "latitude": 49.2404637
+            }
+          },
+          "logo_picture": {
+            "picture_id": "964429",
+            "current_url": "https://images.tgtg.ninja/store/ca04689d-5d90-4344-8e7e-fbe8205ab9e7.png",
+            "is_automatically_created": false
+          },
+          "store_time_zone": "America/Vancouver",
+          "hidden": false,
+          "favorite_count": 0,
+          "distance": 7979.0548611223785,
+          "cover_picture": {
+            "picture_id": "964434",
+            "current_url": "https://images.tgtg.ninja/item/cover/dc5fd075-3980-4ab6-b60d-d98876079ebe.jpg",
+            "is_automatically_created": false
+          },
+          "is_manufacturer": false
+        },
+        "display_name": "Saint Germain Bakery - 1395 E33rd Ave.  (Assorted products)",
+        "pickup_location": {
+          "address": {
+            "country": {
+              "iso_code": "CA",
+              "name": "Canada"
+            },
+            "address_line": "1395 E 33rd Ave, Vancouver, BC V5V 3B9, Canada",
+            "city": "",
+            "postal_code": ""
+          },
+          "location": {
+            "longitude": -123.0765115,
+            "latitude": 49.2404637
+          }
+        },
+        "items_available": 0,
+        "distance": 7979.0548611223785,
+        "favorite": true,
+        "subscribed_to_notification": false,
+        "in_sales_window": false,
+        "new_item": false,
+        "item_type": "MAGIC_BAG",
+        "matches_filters": true,
+        "item_tags": [
+          {
+            "id": "NOTHING_TO_SAVE_TODAY",
+            "short_text": "Nothing today",
+            "long_text": "Nothing today",
+            "variant": "NOTHING_TO_SAVE_TODAY"
+          }
+        ]
+      }
+    ],
+    "items_expanded_radius": []
+  }

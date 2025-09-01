@@ -1,0 +1,49 @@
+refresh
+
+URL
+https://apptoogoodtogo.com/api/token/v1/refresh
+HEADERS
+accept:
+application/json
+accept-encoding:
+gzip
+accept-language:
+en-US
+Connection:
+close
+content-length:
+256
+content-type:
+application/json; charset=utf-8
+Host:
+apptoogoodtogo.com
+user-agent:
+TGTG/25.8.10 Dalvik/2.1.0 (Linux; Android 12; SM-G920V Build/MMB29K)
+x-correlation-id:
+fc9058c5-fadf-481e-af72-2e523479e130
+
+get fav
+https://apptoogoodtogo.com/api/item/v8/
+HEADERS
+accept:
+application/json
+accept-encoding:
+gzip
+accept-language:
+en-US
+authorization:
+Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NTY1OTcyMzgsImlhdCI6MTc1NjQyNDQzOCwiaXNzIjoidGd0Z19zb3RlcmlhIiwidCI6IkFWNmFTOTBwUmUyTEdYRGptUFlaTnc6MToxIiwic3ViIjoiMTM3MTM4MzAyMDc0NzQ5OTIxIn0.QSm1i4esX65lSZlNb2Z9ZzjCVkj2rSmvmTDXzYv8BpU
+Connection:
+close
+content-length:
+92
+content-type:
+application/json; charset=utf-8
+cookie:
+datadome=2ObGuOTMeEHYkSaY5n6sAjgvR5FBY3bJwapuWy6r0omZldMKBQXNUAvkOmh0n0hTe5zUybSsrjcB1JbbGnOqgLcPm5MHu8IiIGnjqyGOJr9ktIMsnwCA2QhdjaG5Oao0
+Host:
+apptoogoodtogo.com
+user-agent:
+TGTG/25.8.10 Dalvik/2.1.0 (Linux; Android 12; SM-G920V Build/MMB29K)
+x-correlation-id:
+fc9058c5-fadf-481e-af72-2e523479e130

@@ -125,6 +125,7 @@ docker run \
    to `toogoodtogo-watcher/config.json`. See above for instructions on how to configure the application.
 3. Use the command as explained under 'Docker run' above to login using the configured email address.
 4. Create a file `docker-compose.yaml`
+
    ```yaml
    version: "3"
    services:
