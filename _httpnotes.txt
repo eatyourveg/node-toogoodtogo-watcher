@@ -47,3 +47,37 @@ user-agent:
 TGTG/25.8.10 Dalvik/2.1.0 (Linux; Android 12; SM-G920V Build/MMB29K)
 x-correlation-id:
 fc9058c5-fadf-481e-af72-2e523479e130
+
+get notification
+METHOD: POST
+URL
+https://apptoogoodtogo.com/api/user/favorite/v1/647230/notification
+HEADERS
+Accept-Encoding:
+gzip
+Accept-Language:
+en-US
+Authorization:
+Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NTcxMTIwMjksImlhdCI6MTc1NjkzOTIyOSwiaXNzIjoidGd0Z19zb3RlcmlhIiwidCI6InhhWWZjb3hLUkE2d0xqS1ZjS3VpVGc6MToxIiwic3ViIjoiMTM3MTM4MzAyMDc0NzQ5OTIxIn0.gSVpsC8FoRNByGpzUfcphPbEr9QJZSUS6N0419gy0ik
+Connection:
+Keep-Alive
+Content-Length:
+30
+Content-Type:
+application/json; charset=utf-8
+Cookie:
+datadome=EuTLCfBVi0rEAzZrKClkCZnRRl914NfCRUKPxpRYPFtDHkMGwa8UxE2Z5rmASUMgQU5PjWpMjVmleSOrO8sEW1tQFMjU5_Z6H991RWj9QnKDklztTuwdLIB8QBeRPkdX
+Host:
+apptoogoodtogo.com
+User-Agent:
+TGTG/25.8.10 Dalvik/2.1.0 (Linux; U; Android 9; BVL-AN00 Build/PQ3A.190605.07021633)
+X-Correlation-ID: a19df778-3cec-4244-9856-8b439e388014
+
+JSON:
+{
+  "subscribe_to_favorite": true
+}
+
+
+ 
+
